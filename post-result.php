@@ -12,7 +12,7 @@ function getDisplay() {
    return "<p> The value sent is :</p>" . $_POST['my-name'];
 } else {
   return {
-  "<p>nothing posted to the page.</p>";
+  <p>nothing posted to the page.</p>;
 }
 }
 ?>
