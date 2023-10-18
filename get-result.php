@@ -4,15 +4,15 @@ include "view-header.php";
 ?>
 <h1>Get result</h1>
 <?php
-if (isset($_GET['my-name'])) {
+if (isset($_Get['my-name'])) {
   ?>
-  <p> The value sent is :</p>
+  <p>The value sent is:</p>
   <?php
   echo $_GET['my-name'];
 } else {
   ?>
-  <p>nothing sent to the page.</p>
-  <?php
+  <p>Nothing sent to the page.</p>
+<?php
 }
 include "view-footer.php";
 ?>
