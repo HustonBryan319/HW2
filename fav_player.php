@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Post";
+$pageTitle = "fav_player";
 include "view-header.php";
 
 <!DOCTYPE html>
