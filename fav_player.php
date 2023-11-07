@@ -1,3 +1,7 @@
+<?php
+$pageTitle = "Post";
+include "view-header.php";
+
 <!DOCTYPE html>
 <html>
 <body>
