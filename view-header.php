@@ -32,7 +32,7 @@
           <a class="nav-link" href="get-result.php">Get result</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="fav_player.php">Gfav_player</a>
+          <a class="nav-link" href="fav_player.php">fav_player</a>
         </li>
         </ul>
       </div>
