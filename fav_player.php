@@ -14,3 +14,6 @@ include "view-header.php";
 
 </body>
 </html>
+<?php
+include "view-footer.php";
+?>
